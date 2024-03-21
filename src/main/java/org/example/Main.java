@@ -10,6 +10,6 @@ public class Main {
 
 
         // Divisão sem casas decimais
-        System.out.println((double) "2312cba".length()/2);
+        System.out.println("2312cba".length()/2);
     }
 }
